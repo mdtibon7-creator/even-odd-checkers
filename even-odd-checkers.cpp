@@ -7,7 +7,6 @@ int main() {
     cout << "Enter a number: ";
     cin >> num;
     
-
     if (number % 2 == 0) 
         cout << "The number is Even";
      else 
